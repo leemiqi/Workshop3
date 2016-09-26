@@ -9,6 +9,10 @@
   position: fixed;
 }
 
+.fb-search {
+  width: 395px !important;
+}
+
 body {
 padding-top: 60px;
 }
