@@ -10,6 +10,41 @@
   margin-right: 14px;
 }
 
+.tw-search-input {
+  border-radius: 15px;
+}
+
+.tw-search-submit {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-left: none;
+}
+
+.tw-reply {
+  width: 100%;
+}
+
+.tw-tweet-body {
+  margin-top: 0;
+}
+
+.tw-tweet-symbol {
+  color: grey;
+}
+
+.media-list {
+  margin: 0;
+}
+
+.panel-footer {
+  margin-top: 7px;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
 body {
   padding-top: 60px;
 }
